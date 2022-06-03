@@ -9,4 +9,4 @@
 
 
 
-![main](https://github.com/shafihaque7/shafiweather/blob/main/demo.gif](https://github.com/shafihaque7/Music-Search/blob/main/demo.gif)
+![main](https://github.com/shafihaque7/Music-Search/blob/main/demo.gif)
